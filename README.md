@@ -146,7 +146,7 @@ You could skip to the fancy Power BI dashboard, but you'd miss this: most analyt
 
 Here's what the raw data looks like (first few rows):
 
-images/python query jupy.png
+![Jupyter Notebook - Data Cleaning and Loading](images/python%20query%20jupy.png)
 
 The notebook handled everything from column renaming to creating meaningful age segments. By the end, we had a clean table ready for PostgreSQL.
 
