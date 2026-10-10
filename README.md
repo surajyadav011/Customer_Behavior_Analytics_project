@@ -187,9 +187,10 @@ This one query shows us three things at once: how many subscribers we have, what
 
 Here's the actual database setup (PostgreSQL with pgAdmin):
 
-sql/sql query.png
 
 All 10 queries are in the `sql/` folder. Each one is written to be readable. Good SQL is commented SQL.
+
+![PostgreSQL Database Setup](sql/sql%20query.png)
 
 ---
 
