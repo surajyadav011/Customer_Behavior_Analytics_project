@@ -1,4 +1,4 @@
-# Real Customer Behavior Analysis
+# Customer Behavior Analysis
 
 A complete **end-to-end analytics pipeline** that takes raw customer data all the way through cleaning, database design, querying, and interactive visualization. This is what a professional data analyst does.
 
@@ -146,7 +146,7 @@ You could skip to the fancy Power BI dashboard, but you'd miss this: most analyt
 
 Here's what the raw data looks like (first few rows):
 
-![Jupyter Notebook - Data Cleaning and Loading](https://raw.githubusercontent.com/your-username/customer-behavior-analysis/main/screenshots/01_jupyter_notebook.png)
+images/python query jupy.png
 
 The notebook handled everything from column renaming to creating meaningful age segments. By the end, we had a clean table ready for PostgreSQL.
 
@@ -187,7 +187,7 @@ This one query shows us three things at once: how many subscribers we have, what
 
 Here's the actual database setup (PostgreSQL with pgAdmin):
 
-![PostgreSQL Database - Customer Table Schema](https://raw.githubusercontent.com/your-username/customer-behavior-analysis/main/screenshots/02_postgresql_setup.png)
+sql/sql query.png
 
 All 10 queries are in the `sql/` folder. Each one is written to be readable. Good SQL is commented SQL.
 
