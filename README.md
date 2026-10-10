@@ -224,7 +224,8 @@ Each chart answers a specific question:
 
 Here's the actual dashboard in action:
 
-![Power BI Dashboard - Customer Behavior Insights](https://raw.githubusercontent.com/your-username/customer-behavior-analysis/main/screenshots/03_powerbi_dashboard.png)
+![Power BI Dashboard - Customer Behavior Insights](dashboard/dashboard.png)
+
 
 The dashboard is interactive. Click a filter and everything updates. This is what stakeholders love because they can explore without asking you for custom reports.
 
